@@ -1,0 +1,21 @@
+1-Dado de los valores ingresados por el usuario (base, altura) calcular y mostrar en pantalla el área de un triángulo.  ------------------------------
+
+2-Convertir la cantidad de dólares ingresados por un usuario a Euros y mostrar el resultado en pantalla. -----------------------------------
+
+3-Convertir los grados centígrados ingresados por un usuario a grados Fahrenheit y mostrar el resultado en pantalla. ----------------------------------
+
+4-Mostrar en pantalla la cantidad de segundos que tiene un lustro.    --------------------------------------------
+
+5-Calcular la cantidad de segundos que le toma a la luz viajar del sol a Marte y mostrar el resultado en pantalla. --------------------------
+
+6-Calcular el número de vueltas que da una llanta en 1 km, dado que el diámetro de la llanta es de 50 cm, mostrar el resultado en pantalla. ---------------------
+
+7-Calcular y mostrar en pantalla la longitud de la sombra de un edificio de 20 metros de altura cuando el ángulo que forman los rayos del sol con el suelo es de 22º.
+
+8-Mostrar en pantalla True o False si la edad ingresada por dos usuarios es la misma.
+
+9-Mostrar en pantalla la cantidad de meses transcurridos desde la fecha de nacimiento de un usuario.
+
+10-Tenemos un artículo en donde explicamos más en detalle el trabajo con fechas
+
+11-Mostrar en pantalla el promedio de un alumno que ha cursado 5 materias (Español, Matemáticas, Economía, Programación, Ingles).

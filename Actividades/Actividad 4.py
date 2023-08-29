@@ -1,0 +1,6 @@
+Segundos = int(60)
+Minutos = Segundos*int(60)
+Hora = Minutos*int(24)
+Dias_año = Hora*int(365)
+Lustro = Dias_año*int(5)
+print("Un lustro equivale a "+str(Lustro)+" segundos")
